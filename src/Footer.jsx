@@ -3,8 +3,10 @@ import React from "react";
 const Footer = () => {
   return (
     <footer>
-      <h1 id="footer">Made with React {React.version}</h1>
-    </footer>
+    <div className="ui container">
+      <p id="footer">Made with React {React.version}</p>
+    </div>
+  </footer>
   );
 };
 
