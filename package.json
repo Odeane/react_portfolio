@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --mode development --open"
+    "start": "webpack-dev-server --inline --mode development --open",
+    "cy:open": "yarn start & cypress open"
   },
   "keywords": [],
   "author": "odeane_croney <odeane_croney@yahoo.com>",
@@ -13,7 +14,8 @@
   "dependencies": {
     "cypress": "^4.8.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
@@ -30,11 +32,5 @@
     "webpack": "4.19.1",
     "webpack-cli": "3.1.1",
     "webpack-dev-server": "3.1.8"
-  },
-  "scripts": {
-    "start": "webpack-dev-server --inline --mode development --open",
-    "cy:open": "yarn start & cypress open"
   }
 }
-
-
