@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Wahlburger,USA",
+        "position": "Cook",
+        "date": "06/2018-09/2018"
+      },
+
+    {
+        "id": 2,
+        "name": "Dennys,USA",
+        "position": "Cook",
+        "date": "06/2018-09/2018" 
+    },  
+
+    {
+        "id": 3,
+        "name": "Walmart,USA",
+        "position": "Store Clerk",
+        "date": "06/2017-09/2017" 
+    }, 
+
+    {
+        "id": 4,
+        "name": "Broadway Grand Prix, USA",
+        "position": "Park Attendant",
+        "date": "05/2017-09/2017" 
+    }  
+]
