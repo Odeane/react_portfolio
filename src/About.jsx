@@ -11,9 +11,7 @@ const About = () => {
         <div class="column">
         <h1 id="about-header" className="ui header">About Me</h1>
         <p>
-          Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident
-          corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum
-          molestias?
+          My name is Odeane Croney. I am 24 years old and I am currently studying at Craft Academy and I am loving every minute.
         </p>
         </div>
       </div>
