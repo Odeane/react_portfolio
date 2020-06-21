@@ -29,8 +29,7 @@ class Cv extends Component {
             <div className="ui main container">
                 <div className="ui stackable two column grid">
                     <div className="column">
-
-                        {/* <UndrawDashboard primaryColor='#12283a' height='200px' /> */}
+                        <p className= 'columncv'><em>Education & Work </em></p>                    
                     </div>
                     <div className="column">
                         <h1 id='cv-header' className="ui header">CV</h1>

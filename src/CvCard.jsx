@@ -16,6 +16,7 @@ const CvCard = ({ cv }) => {
                 
                     <div class="description">{cv.position}</div>
                     <p class='date'>{cv.date}</p>
+                    
                 </div>
             </div>
         </>
