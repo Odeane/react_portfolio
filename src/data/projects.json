@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "name": "My First Website",
-    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
-    "description": "This was my first project. The guy lost, but won the popular vote!"
+    "name": "CAR CENTRAL",
+    "image": "https://odeane.github.io/img/car.png",
+    "description": "We buy and sell cars for the best price. We are the most reliable car trading company worldwide. We buy and sell cars for the best price. We are the most reliable car trading company worldwide"
   },
   {
     "id": 2,
-    "name": "UI Design",
-    "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "Designing user interfaces is fun. I want to learn more about that..."
+    "name": "BMI Calculator",
+    "image": "https://cdn.vertex42.com/Calculators/Images/bmi-calculator.png",
+    "description": "BMI calcuator is for measuring body fat based on height and weight that applies to adult men and women."
   },
   {
     "id": 3,
-    "name": "Mobile UX",
-    "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    "name": "Fizz buzz",
+    "image": "https://getdrawings.com/free-icon/fizz-icon-64.jpg",
+    "description": "A fun game to play and improve your mathematics skills."
   }
 ]
