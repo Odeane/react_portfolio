@@ -9,9 +9,9 @@ const About = () => {
         <UndrawDesignerLife primaryColor='#12283a' height='200px' />
         </div>
         <div class="column">
-        <h1 id="about-header" className="ui header">About Me</h1>
+        <h1 id="about-header" className="ui header"> <span id= "aboutHead">About Me</span></h1>
         <p>
-          My name is Odeane Croney. I am 24 years old and I am currently studying at Craft Academy and I am loving every minute.
+          My name is Odeane Croney. I am a Full Stack Developer based in Stockholm.
         </p>
         </div>
       </div>
