@@ -32,7 +32,7 @@ class Cv extends Component {
                         <p className= 'columncv'><em>Education & Work </em></p>                    
                     </div>
                     <div className="column">
-                        <h1 id='cv-header' className="ui header">CV</h1>
+                        <h1 id='cv-header' className="ui header"><span id = 'cv'>CV</span></h1>
                     </div>
                 </div>
                 <div className="ui stackable four column grid">{cvList}</div>
