@@ -17,6 +17,8 @@
 
 #miProject{
 color: white;
+text-align: center;
+  align-items: center;
 }
 
 body {
@@ -74,3 +76,15 @@ footer {
 .columncv {
   color: white;
 }
+
+.ui.card {
+  display: flex;
+  color: black;
+  align-items: center;
+  border-radius: 70px;
+  padding: 25px;
+  width: 300px;
+  height: 500px;
+  
+}
+
